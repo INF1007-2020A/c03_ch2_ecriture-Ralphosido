@@ -6,7 +6,7 @@ def majuscule(mot):
         # TODO completer la fonction ici
         lettre += 32
         resultat += lettre
-    return mot
+    return resultat
 
 
 if __name__ == '__main__':
